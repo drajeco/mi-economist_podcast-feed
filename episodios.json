@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "archivo": "01_the-world-this-week-politics.mp3",
+    "titulo": "01_the-world-this-week-politics",
+    "descripcion": "01_the-world-this-week-politics",
+    "url": "https://drive.google.com/uc?export=download&id=1NWftVdas7GIj31qfV52c972jjXnIoS4C",
+    "size": 2607408,
+    "fecha": "2026-09-21T08:59:06.255888"
+  },
+  {
+    "archivo": "02_the-world-this-week-business.mp3",
+    "titulo": "02_the-world-this-week-business",
+    "descripcion": "02_the-world-this-week-business",
+    "url": "https://drive.google.com/uc?export=download&id=13ffcP-jQd1q2CRkg3ovegdAlXHdYNyU8",
+    "size": 2090880,
+    "fecha": "2026-09-21T08:59:09.435814"
+  },
+  {
+    "archivo": "11_will-the-tortoise-ever-catch-the-hare.mp3",
+    "titulo": "11_will-the-tortoise-ever-catch-the-hare",
+    "descripcion": "11_will-the-tortoise-ever-catch-the-hare",
+    "url": "https://drive.google.com/uc?export=download&id=1MvJIojDZyFuhEXdQgCyZOQdYNK3Dc8-2",
+    "size": 1965888,
+    "fecha": "2026-09-21T08:59:12.101292"
+  },
+  {
+    "archivo": "14_family-planning.mp3",
+    "titulo": "14_family-planning",
+    "descripcion": "14_family-planning",
+    "url": "https://drive.google.com/uc?export=download&id=13mIDRyRxjUt1O1zg6mXhUuNXKJhs5PXj",
+    "size": 2259216,
+    "fecha": "2026-09-21T08:59:14.744578"
+  },
+  {
+    "archivo": "20_welcome-to-hellscape.mp3",
+    "titulo": "20_welcome-to-hellscape",
+    "descripcion": "20_welcome-to-hellscape",
+    "url": "https://drive.google.com/uc?export=download&id=15HiLRJF4IhC_g_38vLz0jVxvHQy6D9sN",
+    "size": 3522384,
+    "fecha": "2026-09-21T08:59:17.626406"
+  },
+  {
+    "archivo": "30_the-maverick-of-the-moment.mp3",
+    "titulo": "30_the-maverick-of-the-moment",
+    "descripcion": "30_the-maverick-of-the-moment",
+    "url": "https://drive.google.com/uc?export=download&id=19uR6oIJmVr33uTpaxemR5nEAhYL_w6au",
+    "size": 1806768,
+    "fecha": "2026-09-21T08:59:20.190961"
+  },
+  {
+    "archivo": "35_take-a-chance-on-me.mp3",
+    "titulo": "35_take-a-chance-on-me",
+    "descripcion": "35_take-a-chance-on-me",
+    "url": "https://drive.google.com/uc?export=download&id=13AQ33unlxEuEk8dswZPUFxkPcrw0pkmz",
+    "size": 2157120,
+    "fecha": "2026-09-21T08:59:23.312351"
+  },
+  {
+    "archivo": "47_spoils-of-war.mp3",
+    "titulo": "47_spoils-of-war",
+    "descripcion": "47_spoils-of-war",
+    "url": "https://drive.google.com/uc?export=download&id=1AkYLb_mF0-PqvkUUPcVkzXCflq_Epi94",
+    "size": 3973824,
+    "fecha": "2026-09-21T08:59:26.598964"
+  },
+  {
+    "archivo": "53_bonds-and-chain.mp3",
+    "titulo": "53_bonds-and-chain",
+    "descripcion": "53_bonds-and-chain",
+    "url": "https://drive.google.com/uc?export=download&id=1E7bRCEHoErxryWU2kGvO-lDRS910GZnh",
+    "size": 4230144,
+    "fecha": "2026-09-21T08:59:29.916041"
+  },
+  {
+    "archivo": "56_trickle-down-chiponomics.mp3",
+    "titulo": "56_trickle-down-chiponomics",
+    "descripcion": "56_trickle-down-chiponomics",
+    "url": "https://drive.google.com/uc?export=download&id=1hT-0C_2ogz-E71pDT__EYwk-ZGtjWF3M",
+    "size": 452016,
+    "fecha": "2026-09-21T08:59:32.272372"
+  },
+  {
+    "archivo": "57_standard-of-living-crisis.mp3",
+    "titulo": "57_standard-of-living-crisis",
+    "descripcion": "57_standard-of-living-crisis",
+    "url": "https://drive.google.com/uc?export=download&id=1clD1HnSpWLY_fVd_KQcbIYh4GO_n0QPT",
+    "size": 2061360,
+    "fecha": "2026-09-21T08:59:35.138566"
+  },
+  {
+    "archivo": "58_the-best-economist-the-imf-never-had.mp3",
+    "titulo": "58_the-best-economist-the-imf-never-had",
+    "descripcion": "58_the-best-economist-the-imf-never-had",
+    "url": "https://drive.google.com/uc?export=download&id=1zd5magjcNiZ8ArVYlq7nuKkw3J686TvE",
+    "size": 2562192,
+    "fecha": "2026-09-21T08:59:38.108322"
+  },
+  {
+    "archivo": "59_crystal-balls-give-way-to-llms.mp3",
+    "titulo": "59_crystal-balls-give-way-to-llms",
+    "descripcion": "59_crystal-balls-give-way-to-llms",
+    "url": "https://drive.google.com/uc?export=download&id=1mehvnXAsAQN1O1r_ud8L1-ukIuPWiQHc",
+    "size": 1117728,
+    "fecha": "2026-09-21T08:59:40.974308"
+  },
+  {
+    "archivo": "60_axioms-to-grind.mp3",
+    "titulo": "60_axioms-to-grind",
+    "descripcion": "60_axioms-to-grind",
+    "url": "https://drive.google.com/uc?export=download&id=1i8lNDG35lTE0guuoFVUZ2nu7qGtVQHpS",
+    "size": 1476000,
+    "fecha": "2026-09-21T08:59:43.564763"
+  },
+  {
+    "archivo": "61_xenocortication.mp3",
+    "titulo": "61_xenocortication",
+    "descripcion": "61_xenocortication",
+    "url": "https://drive.google.com/uc?export=download&id=1QcVauMH2qTuA1GT80TRYYnYA2E4_zSsj",
+    "size": 1193616,
+    "fecha": "2026-09-21T08:59:46.511211"
+  }
+]
